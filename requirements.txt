@@ -1,0 +1,8 @@
+faker
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+duckdb
+prefect
